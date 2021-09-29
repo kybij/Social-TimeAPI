@@ -1,0 +1,23 @@
+{
+  "name": "social-timeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kybij/Social-TimeAPI.git"
+  },
+  "author": "kylee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kybij/Social-TimeAPI/issues"
+  },
+  "homepage": "https://github.com/kybij/Social-TimeAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
